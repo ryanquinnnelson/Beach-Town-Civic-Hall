@@ -16,8 +16,8 @@ https://news.lascatalinascr.com/design-competition
 - Due to the nature and location of the lot, the building should respond prominently to the context in all or most facades. The main access point is towards Plaza Central.
 
 
-## Submission
-The inspiration for the Civic Hall comes from the first design charette held in 2007. Evocative and full of character, this work communicated the core vision for Las Catalinas. The clock tower, classical detailing, high windows, and playful expression of materials embody this early energy. 
+## My Submission
+Text: "The inspiration for the Civic Hall comes from the first design charette held in 2007. Evocative and full of character, this work communicated the core vision for Las Catalinas. The clock tower, classical detailing, high windows, and playful expression of materials embody this early energy. 
 
 Inspiration was also drawn from Antigua, Guatemala and Granada, Nicaragua, where high ceilings and sculptural masonry walls form a central identity of the building culture of Central America. The arched entryway, angled window openings, and double-height hall with wooden ceiling continue this tradition.
 
@@ -27,7 +27,7 @@ The inspiration for ventilation comes from Las Catalinas itself. One of the geni
 
 The massing of the Civic Hall is a response to the different scales of space that the building must resolve. Plaza Central is public and grand, so the front of the Civic Hall is equally impressive. Plaza Pienza is residential and intimate, so the height and detailing steps down to match.
 
-The floor plan is divided into a main hall with library and model alcoves, a service portion with bathrooms and staging, and a stair tower. The main hall is envisioned to tell the story of Las Catalinas, with maps and drawings on its walls to illustrate the past, present, and future.
+The floor plan is divided into a main hall with library and model alcoves, a service portion with bathrooms and staging, and a stair tower. The main hall is envisioned to tell the story of Las Catalinas, with maps and drawings on its walls to illustrate the past, present, and future."
 
 ![Image1.png](imgs/21_1219_Final_Layout_Town_Hall_P1.png)
 
