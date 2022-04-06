@@ -3,7 +3,7 @@ My submission for the 2022 design competition at Las Catalinas.
 
 ## Competition Prompt
 ### Introduction
-"Professionals, Students, and kids alike are invited to present ideas for a civic hall in Beach Town, Las Catalinas! We seek this building to be of architectural importance, embracing the tropical traditional vernacular of Las Catalinas. As a priority, the proposal should optimize natural ventilation. The design should also allow for a building with flexible use, and durable and sustainable materials. This building has many fronts and should provide a welcoming facade on all sides."
+*Professionals, Students, and kids alike are invited to present ideas for a civic hall in Beach Town, Las Catalinas! We seek this building to be of architectural importance, embracing the tropical traditional vernacular of Las Catalinas. As a priority, the proposal should optimize natural ventilation. The design should also allow for a building with flexible use, and durable and sustainable materials. This building has many fronts and should provide a welcoming facade on all sides.*
 
 https://news.lascatalinascr.com/design-competition
 
